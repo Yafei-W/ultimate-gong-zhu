@@ -17,4 +17,4 @@ The latest binaries can be downloaded from the following locations:
 
 The binaries are packaged with Oracle Java 17. Download the zip file of your platform, unzip and run the UltimateGongZhu script under the bin folder . Once the program starts, click the "Menu" button on the bottom-right of the window to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for further instructions. 
 
-Submit issues and suggestions to https://github.com/Yafei-W/ultimate-gong-zhu.
+Submit issues and suggestions to https://github.com/Yafei-W/ultimate-gong-zhu/issues.
