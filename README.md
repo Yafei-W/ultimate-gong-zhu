@@ -11,10 +11,10 @@ Ultimate Gong Zhu ( 终极拱猪 ) is a java implementation of popular card game
 
 The latest binaries can be downloaded from the following locations:
 
-- The GitHub releases at https://github.com/Yafei-W/Games/releases;
+- The GitHub releases at https://github.com/Yafei-W/ultimate-gong-zhu/releases/latest;
 - From pCloud at http://u.pc.cd/ae5otalK;
 - From Baidu at https://pan.baidu.com/s/1r914-Y_5unBJEfgBziTY4g with code "mbjp".
 
 The binaries are packaged with Oracle Java 17. Download the zip file of your platform, unzip and run the UltimateGongZhu script under the bin folder . Once the program starts, click the "Menu" button on the bottom-right of the window to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for further instructions. 
 
-Submit issues and suggestions to https://github.com/Yafei-W/Games.
+Submit issues and suggestions to https://github.com/Yafei-W/ultimate-gong-zhu.
