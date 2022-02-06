@@ -26,3 +26,7 @@ Start-up screen showing player connection options:
 
 ![StartupScreen](https://user-images.githubusercontent.com/63798176/152703299-61a3e057-5a1e-4c53-a802-e8b9794f5305.jpg)
 
+Help screen:
+
+![HelpScreen](https://user-images.githubusercontent.com/63798176/152703862-e0fac061-9867-47fd-a004-ca7800c9b944.jpg)
+
