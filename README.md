@@ -30,3 +30,6 @@ Help screen:
 
 ![HelpScreen](https://user-images.githubusercontent.com/63798176/152703862-e0fac061-9867-47fd-a004-ca7800c9b944.jpg)
 
+Game Options:
+
+![GameOptionScreen](https://user-images.githubusercontent.com/63798176/152704307-ed8a53e7-2c8b-4328-b66d-bef2dd144fca.jpg)
