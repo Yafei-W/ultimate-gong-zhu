@@ -1,4 +1,4 @@
-## Ultimate Gong Zhu 终极拱猪
+# Ultimate Gong Zhu 终极拱猪
 
 Ultimate Gong Zhu ( 终极拱猪 ) is a java implementation of popular card game Gong Zhu.  It is designed to have these features:
 
@@ -18,3 +18,11 @@ The latest binaries can be downloaded from the following locations:
 The binaries are packaged with Oracle Java 17. Download the zip file of your platform, unzip and run the UltimateGongZhu script under the bin folder . Once the program starts, click the "Menu" button on the bottom-right of the window to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for further instructions. 
 
 Submit issues and suggestions to https://github.com/Yafei-W/ultimate-gong-zhu/issues.
+
+
+## Sample screen shots.
+
+Start-up screen showing player connection options:
+
+![StartupScreen](https://user-images.githubusercontent.com/63798176/152703299-61a3e057-5a1e-4c53-a802-e8b9794f5305.jpg)
+
