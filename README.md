@@ -33,3 +33,16 @@ Help screen:
 Game Options:
 
 ![GameOptionScreen](https://user-images.githubusercontent.com/63798176/152704307-ed8a53e7-2c8b-4328-b66d-bef2dd144fca.jpg)
+
+View of game table during a deal:
+
+![TableScreen](https://user-images.githubusercontent.com/63798176/152715371-d14f315e-dffe-49e9-aa7a-0dedfa491df5.jpg)
+
+Game score:
+
+![ScoreScreen](https://user-images.githubusercontent.com/63798176/152715408-d886ab55-bfab-4775-b581-7b8a4409f3fe.jpg)
+
+Completed deal review:
+
+![DealReviewScreen](https://user-images.githubusercontent.com/63798176/152715500-4306586b-da9c-49c7-af1e-332b7db20b80.jpg)
+
